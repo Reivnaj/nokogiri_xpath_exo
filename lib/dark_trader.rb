@@ -29,7 +29,7 @@ def takes_crypto_values_from_website
 end
 
 
-# faire des hash avec en key name 1 et en value value 1
+# faire des hash avec en key : name 1 et en value : value 1
 def whats_the_currencie_value(range)
   crypto_hash_with_names_and_values = Hash.new
   array_of_hash_with_names_and_values = []
